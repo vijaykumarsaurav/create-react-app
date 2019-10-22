@@ -13,4 +13,4 @@ A Promise represents the eventual result of an asynchronous operation, you can f
 Make sure the [`fetch()` API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) and [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) are available in your target audience's browsers.
 For example, support in Internet Explorer requires a [polyfill](https://github.com/facebook/create-react-app/blob/master/packages/react-app-polyfill/README.md).
 
-You can learn more about making AJAX requests from React components in [the FAQ entry on the React website](https://reactjs.org/docs/faq-ajax.html).
+You can learn more about making AJAX requests from React components in [the FAQ entry on the React website](https://reactjs.org/docs/faq-ajax.html).. 
